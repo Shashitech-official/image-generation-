@@ -1,0 +1,5 @@
+/api/generate        /.netlify/functions/generate       200
+/api/enhance-prompt  /.netlify/functions/enhance-prompt 200
+/api/describe-image  /.netlify/functions/describe-image 200
+/api/health          /.netlify/functions/health         200
+/*                   /index.html                        200

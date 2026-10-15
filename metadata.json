@@ -1,0 +1,6 @@
+{
+  "name": "OmniGen Studio - Free Unlimited AI Image Generator",
+  "description": "Unlimited, 100% free AI image generator with Flux, SDXL, and Gemini AI. Create hyper-realistic photos, anime, 3D art, prompt enhancer, and batch creation without limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
